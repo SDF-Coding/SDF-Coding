@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ... The Odin Project
 
-- 💞️ I’m looking to collaborate on ... Anything new coder friendly. I'm always looking for new opportunities to expand my knowledge base. 
+- 💞️ I’m looking to collaborate on ... Anything new programmer friendly. I'm always looking for new opportunities to expand my knowledge base. 
 
 - 📫 How to reach me ... You can contact me through email at SDF.Coding@gmail.com
 
