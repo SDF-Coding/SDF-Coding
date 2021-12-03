@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on ... Anything new coder friendly. I'm always looking for new opportunities to expand my knowledge base. 
 
-- 📫 How to reach me ... Comment on this README. I may create a separate email account for receiving any communication sooner or later!
+- 📫 How to reach me ... You can contact me through email at SDF.Coding@gmail.com
 
 Thanks for reading, I look forward to learning and creating with you!
 
